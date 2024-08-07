@@ -1,0 +1,32 @@
+.box h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  color: #201e43;
+}
+.chanceBox {
+  width: 20%;
+  margin: 50px auto;
+  padding: 50px;
+  border: 2px solid #00215e;
+  background-color: #1a2130;
+  border-radius: 5px;
+}
+.chanceBox p {
+  font-size: 20px;
+  font-family: cursive;
+}
+button {
+  padding: 20px;
+  border: none;
+  background-color: #2c4e80;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
+button:hover{
+    background-color:#153448 ;
+    font-size: 18px;
+}

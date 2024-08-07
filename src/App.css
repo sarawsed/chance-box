@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #CDE8E5;
+}
+#root {
+  width: 100%;
+  height: 100%;
+  padding: 50px;
+  text-align: center;
+}
